@@ -5,7 +5,7 @@
 - EStou desenvolvendo a linguagem do java script
 
 - Utilize este espaço para organização e compartilhamento de seus projetos desenvolvendo
-![](https://media.giphy.com/media/hrL0x8gMIzwgtFyKje/giphy.gif?cid=790b7611tc6ohd9fnd2mivrv7qzyquau2hwq7r6iszv7okja&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmx6eDU1OGFrNDhxNXNrbDRleGJnejZ4eGtub2dmaTNpcHNqY3g0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gx0wKfM5UV23CWaTh/giphy.webp)
 
 
 
